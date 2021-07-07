@@ -70,5 +70,6 @@ The dynamic template contains template variables (tokens), which are between cur
 
 - [Default](example-configs/default.json)
 - [Gitmojis](example-configs/gitmojis.json)
+- [Gitmojis - With Simplifed Chinese descriptions](example-configs/gitmojis_zh-CN.json)
 
 **Happy coding!**
