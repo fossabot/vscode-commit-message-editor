@@ -68,7 +68,7 @@ The dynamic template contains template variables (tokens), which are between cur
 
 ### Sample configs
 
-- [Default](https://github.com/bendera/vscode-commit-message-editor/blob/master/example-configs/default.json)
-- [Gitmojis](https://github.com/bendera/vscode-commit-message-editor/blob/master/example-configs/gitmojis.json)
+- [Default](example-configs/default.json)
+- [Gitmojis](example-configs/gitmojis.json)
 
 **Happy coding!**
