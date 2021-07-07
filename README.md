@@ -72,4 +72,6 @@ The dynamic template contains template variables (tokens), which are between cur
 - [Gitmojis](example-configs/gitmojis.json)
 - [Gitmojis - With Simplifed Chinese descriptions](example-configs/gitmojis_zh-CN.json)
 
+You can customize the Gitmoji config with the `scripts/gitmoji-config.js` script
+
 **Happy coding!**
